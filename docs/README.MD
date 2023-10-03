@@ -1,5 +1,5 @@
 -------------------
-*Conectrainner*
+*Connectrainner*
 -------------------
 🙁 *Problema*: Não ter todos os recursos de uma consultoria de treino centralizados em uma aplicação, pode
 resultar em transtornos e confusões às partes envolvidas. No caso do aluno, pode resultar em uma baixa adesão ao treino e rotinas 
